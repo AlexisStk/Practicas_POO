@@ -72,6 +72,6 @@ $alumno1 = new Alumno('0','Alexis','Ramirez','alexis.stk3@gmail.com');
 
 //de esta forma puedo setear un valor y mostrarlo
 $alumno1->setNombre('Gustavo');
-var_dump($alumno1->getNombre());
+// var_dump($alumno1->getNombre());
 
 
